@@ -9,3 +9,11 @@ The content in this repository is licensed under [Creative Commons Attribution-N
 Find all the available icons in `images` folder.
 
 Some images will be compressed by [ImgBot](https://github.com/imgbot/Imgbot) after uploading to reduce the size of the images.
+
+## Usage
+
+We recommend you to use jsDelivr CDN to load the icons in your website.
+
+```plain
+https://cdn.jsdelivr.net/gh/SlimefunGuguProject/Slimefun-Icons/images/<Icon>
+```

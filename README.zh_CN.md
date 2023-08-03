@@ -9,3 +9,11 @@
 在`images`文件夹内可找到所有图标。
 
 部分图片在上传后会经过[ImgBot](https://github.com/imgbot/Imgbot)的压缩处理，以减少图片大小。
+
+## 使用
+
+我们推荐你使用 jsDelivr CDN 来加载图标。
+
+```plain
+https://cdn.jsdelivr.net/gh/SlimefunGuguProject/Slimefun-Icons/images/<Icon>
+```
