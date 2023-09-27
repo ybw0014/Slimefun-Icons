@@ -15,5 +15,5 @@ Some images will be compressed by [ImgBot](https://github.com/imgbot/Imgbot) aft
 We recommend you to use jsDelivr CDN to load the icons in your website.
 
 ```plain
-https://cdn.jsdelivr.net/gh/SlimefunGuguProject/Slimefun-Icons/images/<Icon>
+https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Icons/images/<Icon>
 ```

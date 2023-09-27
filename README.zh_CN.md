@@ -15,5 +15,5 @@
 我们推荐你使用 jsDelivr CDN 来加载图标。
 
 ```plain
-https://cdn.jsdelivr.net/gh/SlimefunGuguProject/Slimefun-Icons/images/<Icon>
+https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Icons/images/<Icon>
 ```
